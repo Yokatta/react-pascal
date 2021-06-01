@@ -1,0 +1,12 @@
+.squareStyle {
+  width: 60px;
+            height: 60px;
+            background: #d3d3d3;
+            display: inline-block;
+            border: 5px solid #fff;
+			color:#fff;
+			text-align: center;
+			vertical-align: abs-middle;
+			top: 50%;
+			left: 50%;
+}
